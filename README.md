@@ -3,7 +3,7 @@
 * [JAFFE][c]（日本人顔データベース）から、「喜び」「平常状態」「怒り」各クラス30枚の画像をデータセットとし、用途別に分割して使用しました
 
 # Env.
-* python 3.5.2
+* Python 3.5.2
 * Jupyter Notebook
 
 # File.
@@ -16,7 +16,7 @@
 * matplotlib 2.1.0
 * h5py 2.7.1
 
-# References
+# References.
 * [人工知能に関する断創録(VGG16のFine-tuningによる17種類の花の分類)][a]
 * [Keras(Tensorflow)の学習済みモデルのFine-tuningで少ない画像からごちうさのキャラクターを分類する分類モデルを作成する][b]
 * Michael J. Lyons, Shigeru Akemastu, Miyuki Kamachi, Jiro Gyoba.
